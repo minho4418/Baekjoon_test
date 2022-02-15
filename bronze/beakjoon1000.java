@@ -12,4 +12,4 @@ public class beakjoon1000 {
 
         in.close();
     }
-}
+} 
